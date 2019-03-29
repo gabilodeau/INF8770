@@ -10,7 +10,7 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 matplotlib==2.2.3
-mkl-fft==1.0.10
+mkl-fft==1.0.6
 mkl-random==1.0.2
 nbconvert==5.3.1
 nbformat==4.4.0
