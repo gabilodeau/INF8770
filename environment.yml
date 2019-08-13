@@ -33,7 +33,7 @@ dependencies:
   - distributed
   - entrypoints
   - expat
-  - ffmpeg
+  - imutils
   - fontconfig
   - freetype
   - gettext
