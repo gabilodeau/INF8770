@@ -115,7 +115,6 @@ dependencies:
   - pexpect
   - pickleshare
   - pillow
-  - pip
   - pixman
   - prometheus_client
   - prompt_toolkit
@@ -175,5 +174,6 @@ dependencies:
   - zope.interface
   - zstd
   - lz4-c
- - pip:
+  - pip
+  - pip:
     - anytree
