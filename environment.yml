@@ -175,4 +175,5 @@ dependencies:
   - zope.interface
   - zstd
   - lz4-c
-  - anytree
+ - pip:
+    - anytree
